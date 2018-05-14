@@ -20,7 +20,7 @@
 -(void)jx_setWebPWithWebPName:(NSString *)webPName;
 
 /*
- *  使用URL加载webP
+ *  使用URL加载图片
  */
 -(void)jx_setImageWithUrl:(NSString*)url;
 
