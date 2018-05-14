@@ -1,5 +1,8 @@
 # webP-Demo
 
+#### webP介绍
+    https://github.com/amfe/article/issues/21 （自己了解哈，不copy了！）
+
 #### 重点
     问题 ： Error installing libwebp
     解决方案：请看下文 （能让你少走弯路的分享）
@@ -34,6 +37,9 @@ webP格式的使用：
                 转发：https://www.jianshu.com/p/34204fd27514
 
 #### 交流
+
+#### 简书
+    https://www.jianshu.com/p/37b333e71749
 
 QQ: 1103868202  木星
 
